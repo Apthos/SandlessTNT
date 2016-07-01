@@ -1,0 +1,9 @@
+name: Sandlesstnt
+version: 1.0
+main: net.apthos.SandlessTNT.Sandlesstnt
+author: Apthos
+description: Command to craft tnt without sand
+
+commands:
+  tntsandless:
+  tntbooster:

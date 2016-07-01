@@ -1,0 +1,9 @@
+# General Settings #
+Boost_Multiplier: 2
+# Permissions #
+sandless_tnt_use: "sandlesstnt.use"
+sandless_tnt_booster_user: "sandlesstnt.booster.use"
+# Language #
+no_permission: "&cNo Permission!"
+sandlesstnt_command: "&aYou have crafted &c%CRAFTED-TNT% &atnt"
+booster_broadcast: "&C%PLAYER% &ahas activated &c%BOOSTER%x &atnt crafting for &c%HOURS%&a."
